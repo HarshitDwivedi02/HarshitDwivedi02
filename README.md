@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Harshit Dwivedi</h1>
 <h3 align="center">An aspiring data analyst</h3>
 
 <img align="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/9df4195b3400b7aa26664fec3f4661e7d16d29022f29d09b8f89fb8036bab799/68747470733a2f2f6361707475726c792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f30322f446174612d576562736974652d416e616c79746963732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonecoder69&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder69" /> </p>
 
-🌱 I’m currently learning Machine Learning , Blockchain , Quant Analytics and Buisness analytics tools .
+🌱 I’m currently learning Data Analytics , Data Science , Software Development and new technologies.
 
-🌐 Currently doing projects in Machine learning and data analytics .
+🌐 Currently doing projects in data analytics .
 
 👨‍💻 All of my projects are available on Github only.
 
@@ -17,13 +17,13 @@
 
 ⚡ Fun fact I Love Mysteries and thrillers
 
-✅ I love to do photography and reading books .
+✅ I love to listen podcasts and reading books .
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonecoder69" alt="lonecoder69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitdwivedi2002" alt="harshitdwivedi2002" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ujjwals39793763" target="blank"><img src="https://img.shields.io/twitter/follow/@ujjwals39793763?logo=twitter&style=for-the-badge" alt="@ujjwals39793763" /></a> </p>
 
-- 📫 How to reach me *srivastavaujjwal510@gmail.com*
+- 📫 How to reach me *harshitdwivedi2002@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
