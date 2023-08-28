@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitdwivedi2002" alt="harshitdwivedi2002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ujjwals39793763" target="blank"><img src="https://img.shields.io/twitter/follow/@ujjwals39793763?logo=twitter&style=for-the-badge" alt="@ujjwals39793763" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ujjwals39793763" target="blank"><img src="https://img.shields.io/twitter/follow/@harshit_d2002?logo=twitter&style=for-the-badge" alt="@harshit_d2002" /></a> </p>
 
 - 📫 How to reach me *harshitdwivedi2002@gmail.com*
 
